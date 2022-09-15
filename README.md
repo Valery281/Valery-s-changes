@@ -1,2 +1,2 @@
 # Valery-s-changes
-Valery change add new styles
+Valery added new styles
